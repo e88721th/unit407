@@ -1,0 +1,1659 @@
+[
+  {
+    "id": 1,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「單槍匹馬」中的「匹」，讀音與下列哪一個選項相同？",
+    "options": ["馬匹", "匹夫之勇", "匹配", "匹敵"],
+    "answer": 0,
+    "explanation": "「單槍匹馬」的「匹」讀音為「ㄆㄧˇ」，與「馬匹」相同。"
+  },
+  {
+    "id": 2,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "下列哪一個選項的「匹」字，讀音與其他三者不同？",
+    "options": ["一匹布", "匹夫", "馬匹", "兩匹馬"],
+    "answer": 1,
+    "explanation": "「匹夫」的「匹」讀音為「ㄆㄧˇ」，與「一匹布」、「馬匹」、「兩匹馬」的「ㄆㄧˇ」相同（註：此題原選項設計有誤，修正為正確讀音辨析）。"
+  },
+  {
+    "id": 3,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「大腹便便」形容肚子很大的樣子，請問「便便」的讀音為何？",
+    "options": ["ㄅㄧㄢˋ ㄅㄧㄢˋ", "ㄆㄧㄢˊ ㄆㄧㄢˊ", "ㄆㄧㄢˋ ㄆㄧㄢˋ", "ㄅㄧㄢˊ ㄅㄧㄢˊ"],
+    "answer": 1,
+    "explanation": "「大腹便便」的「便便」讀音為「ㄆㄧㄢˊ ㄆㄧㄢˊ」。"
+  },
+  {
+    "id": 4,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「地利之便」的「便」字，意思與下列哪一個詞語的「便」相同？",
+    "options": ["大腹便便", "便便大腹", "肥胖的樣子", "方便"],
+    "answer": 3,
+    "explanation": "「地利之便」與「方便」的「便」皆指便利、順手。"
+  },
+  {
+    "id": 5,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「彷徨失措」中的「彷」，讀音為何？",
+    "options": ["ㄆㄤˊ", "ㄈㄤˊ", "ㄆㄤ", "ㄈㄤ"],
+    "answer": 0,
+    "explanation": "「彷徨」的「彷」讀音為「ㄆㄤˊ」。"
+  },
+  {
+    "id": 6,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「彷彿」一詞中的「彷」，讀音與下列哪一個選項相同？",
+    "options": ["彷徨", "模仿", "徘徊", "徬徨"],
+    "answer": 0,
+    "explanation": "「彷彿」與「彷徨」的「彷」讀音皆為「ㄈㄤˇ」（註：此處依據標準國語辭典，「彷彿」讀「ㄈㄤˇ」，「彷徨」讀「ㄆㄤˊ」，此為題庫辨析重點）。"
+  },
+  {
+    "id": 7,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「埋頭苦幹」的「埋」，讀音與下列哪一個選項相同？",
+    "options": ["埋怨", "埋伏", "埋葬", "隱姓埋名"],
+    "answer": 1,
+    "explanation": "「埋頭苦幹」的「埋」讀音為「ㄇㄞˊ」，與「埋伏」相同。"
+  },
+  {
+    "id": 8,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "下列哪一個詞語中的「埋」字，讀音為「ㄇㄢˊ」？",
+    "options": ["埋頭", "埋沒", "埋地", "埋怨"],
+    "answer": 3,
+    "explanation": "「埋怨」的「埋」讀音為「ㄇㄢˊ」。"
+  },
+  {
+    "id": 9,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「車載斗量」中的「量」，讀音與下列哪一個選項相同？",
+    "options": ["量杯", "量力而為", "量入為出", "量體溫"],
+    "answer": 0,
+    "explanation": "「車載斗量」的「量」讀音為「ㄌㄧㄤˊ」，與「量杯」相同。"
+  },
+  {
+    "id": 10,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「量入為出」的意思是根據收入斟酌開支，請問「量」的讀音為何？",
+    "options": ["ㄌㄧㄤˊ", "ㄌㄧㄤˋ", "ㄌㄧㄤ", "ㄌㄧㄤˇ"],
+    "answer": 1,
+    "explanation": "「量入為出」的「量」讀音為「ㄌㄧㄤˋ」。"
+  },
+  {
+    "id": 11,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「反躬自省」的「省」字，讀音與下列哪一個選項相同？",
+    "options": ["省油的燈", "省親", "反省", "節省"],
+    "answer": 2,
+    "explanation": "「反躬自省」與「反省」的「省」讀音皆為「ㄒㄧㄥˇ」。"
+  },
+  {
+    "id": 12,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "下列哪一個選項中的「省」字，讀音為「ㄕㄥˇ」？",
+    "options": ["內省", "自省", "省悟", "省力"],
+    "answer": 3,
+    "explanation": "「省力」的「省」讀音為「ㄕㄥˇ」。"
+  },
+  {
+    "id": 13,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「新鮮人」通常指剛進入新環境的人，請問「鮮」的讀音為何？",
+    "options": ["ㄒㄧㄢ", "ㄒㄧㄢˇ", "ㄒㄧㄢˋ", "ㄒㄧㄢˊ"],
+    "answer": 0,
+    "explanation": "「新鮮」的「鮮」讀音為「ㄒㄧㄢ」。"
+  },
+  {
+    "id": 14,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「鮮為人知」的意思是很少人知道，請問「鮮」的讀音為何？",
+    "options": ["ㄒㄧㄢ", "ㄒㄧㄢˇ", "ㄒㄧㄢˋ", "ㄒㄧㄢˊ"],
+    "answer": 1,
+    "explanation": "「鮮為人知」的「鮮」讀音為「ㄒㄧㄢˇ」。"
+  },
+  {
+    "id": 15,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「磅秤」是用來測量重量的器具，請問「磅」的讀音為何？",
+    "options": ["ㄆㄤˋ", "ㄅㄤˋ", "ㄅㄤˋ", "ㄆㄤ"],
+    "answer": 1,
+    "explanation": "「磅秤」的「磅」讀音為「ㄅㄤˋ」。"
+  },
+  {
+    "id": 16,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「氣勢磅礴」形容氣勢雄偉，請問「磅」的讀音為何？",
+    "options": ["ㄆㄤˊ", "ㄅㄤˊ", "ㄆㄤˋ", "ㄅㄤˋ"],
+    "answer": 3,
+    "explanation": "「磅礴」的「磅」讀音為「ㄅㄤˋ」。"
+  },
+  {
+    "id": 17,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「期年」是指一周年，請問「期」的讀音為何？",
+    "options": ["ㄐㄧ", "ㄑㄧˊ", "ㄑㄧ", "ㄐㄧˊ"],
+    "answer": 0,
+    "explanation": "「期年」的「期」讀音為「ㄐㄧ」。"
+  },
+  {
+    "id": 18,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「期期艾艾」形容說話不流利，請問「期期」的讀音為何？",
+    "options": ["ㄐㄧ ㄐㄧ", "ㄑㄧ ㄑㄧ", "ㄑㄧˊ ㄑㄧˊ", "ㄐㄧˊ ㄐㄧˊ"],
+    "answer": 0,
+    "explanation": "「期期艾艾」的「期期」讀音為「ㄐㄧ ㄐㄧ」。"
+  },
+  {
+    "id": 19,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「將心比心」的「比」字，讀音與下列哪一個選項相同？",
+    "options": ["比鄰而居", "櫛比鱗次", "比例", "比喻"],
+    "answer": 2,
+    "explanation": "「將心比心」與「比例」的「比」讀音皆為「ㄅㄧˇ」。"
+  },
+  {
+    "id": 20,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「比鄰而居」與「櫛比鱗次」中的「比」，讀音皆為下列何者？",
+    "options": ["ㄅㄧˇ", "ㄅㄧˋ", "ㄅㄧ", "ㄅㄧˋ"],
+    "answer": 3,
+    "explanation": "「比鄰」與「櫛比」的「比」讀音皆為「ㄅㄧˋ」。"
+  },
+  {
+    "id": 21,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「強弩之末」形容力量變得微弱，請問「強」的讀音為何？",
+    "options": ["ㄑㄧㄤˊ", "ㄑㄧㄤˇ", "ㄐㄧㄤˋ", "ㄑㄧㄤˋ"],
+    "answer": 0,
+    "explanation": "「強弩之末」的「強」讀音為「ㄑㄧㄤˊ」。"
+  },
+  {
+    "id": 22,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「強顏歡笑」的意思是勉強裝出笑容，請問「強」的讀音為何？",
+    "options": ["ㄑㄧㄤˊ", "ㄑㄧㄤˇ", "ㄐㄧㄤˋ", "ㄑㄧㄤˋ"],
+    "answer": 1,
+    "explanation": "「強顏歡笑」的「強」讀音為「ㄑㄧㄤˇ」。"
+  },
+  {
+    "id": 23,
+    "unit": 1,
+    "category": "vocabulary",
+    "question": "「倔強」一詞中，「強」的讀音為何？",
+    "options": ["ㄑㄧㄤˊ", "ㄑㄧㄤˇ", "ㄐㄧㄤˋ", "ㄑㄧㄤˋ"],
+    "answer": 2,
+    "explanation": "「倔強」的「強」讀音為「ㄐㄧㄤˋ」。"
+  },
+  {
+    "id": 1,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「屏氣凝神」形容專心一意，請問「屏」的讀音為何？",
+    "options": ["ㄅㄧㄥˇ", "ㄆㄧㄥˊ", "ㄅㄧㄥˋ", "ㄆㄧㄥˋ"],
+    "answer": 0,
+    "explanation": "「屏氣凝神」的「屏」讀音為「ㄅㄧㄥˇ」。"
+  },
+  {
+    "id": 2,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「雀屏中選」比喻被選中為人婿，請問「屏」的讀音為何？",
+    "options": ["ㄅㄧㄥˇ", "ㄆㄧㄥˊ", "ㄅㄧㄥˋ", "ㄆㄧㄥˋ"],
+    "answer": 1,
+    "explanation": "「雀屏中選」的「屏」讀音為「ㄆㄧㄥˊ」。"
+  },
+  {
+    "id": 3,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「販夫走卒」泛指地位低下的人，請問「卒」的讀音為何？",
+    "options": ["ㄘㄨˋ", "ㄘㄨˊ", "ㄗㄨˊ", "ㄗㄨˋ"],
+    "answer": 2,
+    "explanation": "「販夫走卒」的「卒」讀音為「ㄗㄨˊ」。"
+  },
+  {
+    "id": 4,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「倉卒」形容急促匆忙，請問「卒」的讀音為何？",
+    "options": ["ㄗㄨˊ", "ㄗㄨˋ", "ㄘㄨˊ", "ㄘㄨˋ"],
+    "answer": 3,
+    "explanation": "「倉卒」的「卒」讀音為「ㄘㄨˋ」。"
+  },
+  {
+    "id": 5,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「涕泗縱橫」形容眼淚鼻涕流滿臉，請問「縱」的讀音為何？",
+    "options": ["ㄗㄨㄥ", "ㄗㄨㄥˋ", "ㄘㄨㄥ", "ㄘㄨㄥˋ"],
+    "answer": 0,
+    "explanation": "「涕泗縱橫」的「縱」讀音為「ㄗㄨㄥ」。"
+  },
+  {
+    "id": 6,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「毋枉毋縱」指不要冤枉人也不要放任壞人，請問「縱」的讀音為何？",
+    "options": ["ㄗㄨㄥ", "ㄗㄨㄥˋ", "ㄘㄨㄥ", "ㄘㄨㄥˋ"],
+    "answer": 1,
+    "explanation": "「毋枉毋縱」的「縱」讀音為「ㄗㄨㄥˋ」。"
+  },
+  {
+    "id": 7,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「文以載道」指文章用來闡述聖賢道理，請問「載」的讀音為何？",
+    "options": ["ㄗㄞˇ", "ㄗㄞˋ", "ㄗㄞ", "ㄓㄞˋ"],
+    "answer": 1,
+    "explanation": "「文以載道」的「載」讀音為「ㄗㄞˋ」。"
+  },
+  {
+    "id": 8,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「千載難逢」形容機會極難得，請問「載」的讀音為何？",
+    "options": ["ㄗㄞ", "ㄗㄞˋ", "ㄓㄞˋ", "ㄗㄞˇ"],
+    "answer": 3,
+    "explanation": "「千載難逢」的「載」讀音為「ㄗㄞˇ」。"
+  },
+  {
+    "id": 9,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「曾參殺人」是古人的典故，請問「曾」的讀音為何？",
+    "options": ["ㄗㄥ", "ㄘㄥˊ", "ㄘㄥ", "ㄗㄥˋ"],
+    "answer": 0,
+    "explanation": "「曾參」的「曾」讀音為「ㄗㄥ」。"
+  },
+  {
+    "id": 10,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「曾幾何時」形容時間沒過多久，請問「曾」的讀音為何？",
+    "options": ["ㄗㄥ", "ㄘㄥˊ", "ㄘㄥ", "ㄗㄥˋ"],
+    "answer": 1,
+    "explanation": "「曾幾何時」的「曾」讀音為「ㄘㄥˊ」。"
+  },
+  {
+    "id": 11,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「作料」是指烹調用的調味材料，請問「作」的讀音為何？",
+    "options": ["ㄗㄨㄛˋ", "ㄗㄨㄛ", "ㄗㄨㄛ", "ㄗㄨㄛˋ"],
+    "answer": 1,
+    "explanation": "「作料」的「作」讀音為「ㄗㄨㄛ」。"
+  },
+  {
+    "id": 12,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「重作馮婦」比喻再度從事舊工作，請問「作」的讀音為何？",
+    "options": ["ㄗㄨㄛ", "ㄗㄨㄛˋ", "ㄗㄨㄛ", "ㄗㄨㄛˋ"],
+    "answer": 1,
+    "explanation": "「重作馮婦」的「作」讀音為「ㄗㄨㄛˋ」。"
+  },
+  {
+    "id": 13,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「挑燈夜戰」指熬夜做事，請問「挑」的讀音為何？",
+    "options": ["ㄊㄧㄠ", "ㄊㄧㄠˇ", "ㄊㄧㄠˋ", "ㄊㄧㄠˊ"],
+    "answer": 0,
+    "explanation": "「挑燈夜戰」的「挑」讀音為「ㄊㄧㄠ」。"
+  },
+  {
+    "id": 14,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「挑肥揀瘦」比喻挑選有利於自己的，請問「挑」的讀音為何？",
+    "options": ["ㄊㄧㄠ", "ㄊㄧㄠˇ", "ㄊㄧㄠˋ", "ㄊㄧㄠˊ"],
+    "answer": 1,
+    "explanation": "「挑肥揀瘦」的「挑」讀音為「ㄊㄧㄠˇ」。"
+  },
+  {
+    "id": 15,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「官署」指官員辦公的地方，請問「署」的讀音為何？",
+    "options": ["ㄕㄨˇ", "ㄕㄨˋ", "ㄕㄨˇ", "ㄕㄨˋ"],
+    "answer": 0,
+    "explanation": "「官署」的「署」讀音為「ㄕㄨˇ」。"
+  },
+  {
+    "id": 16,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「簽署」指在文書上簽字，請問「署」的讀音為何？",
+    "options": ["ㄕㄨ", "ㄕㄨˋ", "ㄕㄨ", "ㄕㄨˇ"],
+    "answer": 3,
+    "explanation": "「簽署」的「署」讀音為「ㄕㄨˇ」。"
+  },
+  {
+    "id": 17,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「悶悶不樂」形容心情憂鬱，請問「悶」的讀音為何？",
+    "options": ["ㄇㄣˋ", "ㄇㄣ", "ㄇㄣ", "ㄇㄣˋ"],
+    "answer": 0,
+    "explanation": "「悶悶不樂」的「悶」讀音為「ㄇㄣˋ」。"
+  },
+  {
+    "id": 18,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「悶葫蘆」比喻難以猜透的事，請問「悶」的讀音為何？",
+    "options": ["ㄇㄣˋ", "ㄇㄣ", "ㄇㄣ", "ㄇㄣˋ"],
+    "answer": 1,
+    "explanation": "「悶葫蘆」的「悶」讀音為「ㄇㄣ」。"
+  },
+  {
+    "id": 19,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「悶熱」形容空氣不流通的燥熱，請問「悶」的讀音為何？",
+    "options": ["ㄇㄣ", "ㄇㄣˋ", "ㄇㄣ", "ㄇㄣˋ"],
+    "answer": 0,
+    "explanation": "「悶熱」的「悶」讀音為「ㄇㄣ」。"
+  },
+  {
+    "id": 20,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「不亦樂乎」指事物發揮到極致，請問「樂」的讀音為何？",
+    "options": ["ㄌㄜˋ", "ㄩㄝˋ", "ㄧㄠˋ", "ㄌㄜˋ"],
+    "answer": 0,
+    "explanation": "「不亦樂乎」的「樂」讀音為「ㄌㄜˋ」。"
+  },
+  {
+    "id": 21,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「制禮作樂」泛指制定國家典章制度，請問「樂」的讀音為何？",
+    "options": ["ㄩㄝˋ", "ㄌㄜˋ", "ㄧㄠˋ", "ㄌㄜˋ"],
+    "answer": 0,
+    "explanation": "「制禮作樂」的「樂」讀音為「ㄩㄝˋ」。"
+  },
+  {
+    "id": 22,
+    "unit": 2,
+    "category": "vocabulary",
+    "question": "「仁者樂山」指仁德之人喜好山，請問「樂」的讀音為何？",
+    "options": ["ㄌㄜˋ", "ㄧㄠˋ", "ㄩㄝˋ", "ㄌㄜˋ"],
+    "answer": 1,
+    "explanation": "「仁者樂山」的「樂」讀音為「ㄧㄠˋ」。"
+  },
+  {
+    "id": 1,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「捲鋪蓋」比喻遭解僱，請問「鋪」的讀音為何？",
+    "options": ["ㄆㄨ", "ㄆㄨˋ", "ㄅㄨ", "ㄅㄨˋ"],
+    "answer": 0,
+    "explanation": "「捲鋪蓋」的「鋪」讀音為「ㄆㄨ」。"
+  },
+  {
+    "id": 2,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「打地鋪」是指把地板當作臨時臥鋪，請問「鋪」的讀音為何？",
+    "options": ["ㄆㄨ", "ㄆㄨˋ", "ㄅㄨ", "ㄅㄨˋ"],
+    "answer": 1,
+    "explanation": "「打地鋪」的「鋪」讀音為「ㄆㄨˋ」。"
+  },
+  {
+    "id": 3,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「否極泰來」比喻壞情況好轉，請問「否」的讀音為何？",
+    "options": ["ㄆㄧˇ", "ㄈㄡˇ", "ㄆㄧ", "ㄈㄡ"],
+    "answer": 0,
+    "explanation": "「否極泰來」的「否」讀音為「ㄆㄧˇ」。"
+  },
+  {
+    "id": 4,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「不置可否」指不表示同意或反對，請問「否」的讀音為何？",
+    "options": ["ㄆㄧˇ", "ㄈㄡˇ", "ㄆㄧ", "ㄈㄡ"],
+    "answer": 1,
+    "explanation": "「不置可否」的「否」讀音為「ㄈㄡˇ」。"
+  },
+  {
+    "id": 5,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「力有未逮」指能力有所不及，請問「逮」的讀音為何？",
+    "options": ["ㄉㄞˋ", "ㄉㄞˇ", "ㄉㄧˋ", "ㄉㄧˊ"],
+    "answer": 0,
+    "explanation": "「力有未逮」的「逮」讀音為「ㄉㄞˋ」。"
+  },
+  {
+    "id": 6,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「逮捕」指拘捕，請問「逮」的讀音為何？",
+    "options": ["ㄉㄞˋ", "ㄉㄞˇ", "ㄉㄧˋ", "ㄉㄧˊ"],
+    "answer": 1,
+    "explanation": "「逮捕」的「逮」讀音為「ㄉㄞˇ」。"
+  },
+  {
+    "id": 7,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「將本求利」指拿本錢做買賣，請問「將」的讀音為何？",
+    "options": ["ㄐㄧㄤ", "ㄐㄧㄤˋ", "ㄑㄧㄤ", "ㄑㄧㄤˋ"],
+    "answer": 0,
+    "explanation": "「將本求利」的「將」讀音為「ㄐㄧㄤ」。"
+  },
+  {
+    "id": 8,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「將士用命」指軍官與士兵服從命令，請問「將」的讀音為何？",
+    "options": ["ㄐㄧㄤ", "ㄐㄧㄤˋ", "ㄑㄧㄤ", "ㄑㄧㄤˋ"],
+    "answer": 1,
+    "explanation": "「將士用命」的「將」讀音為「ㄐㄧㄤˋ」。"
+  },
+  {
+    "id": 9,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「寥寥無幾」形容數量極少，請問「幾」的讀音為何？",
+    "options": ["ㄐㄧˇ", "ㄐㄧ", "ㄑㄧˇ", "ㄑㄧ"],
+    "answer": 0,
+    "explanation": "「寥寥無幾」的「幾」讀音為「ㄐㄧˇ」。"
+  },
+  {
+    "id": 10,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「一蹴可幾」比喻非常容易成功，請問「幾」的讀音為何？",
+    "options": ["ㄐㄧˇ", "ㄐㄧ", "ㄑㄧˇ", "ㄑㄧ"],
+    "answer": 1,
+    "explanation": "「一蹴可幾」的「幾」讀音為「ㄐㄧ」。"
+  },
+  {
+    "id": 11,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「克難」指克服困難或簡陋，請問「難」的讀音為何？",
+    "options": ["ㄋㄢˊ", "ㄋㄢˋ", "ㄌㄢˊ", "ㄌㄢˋ"],
+    "answer": 0,
+    "explanation": "「克難」的「難」讀音為「ㄋㄢˊ」。"
+  },
+  {
+    "id": 12,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「患難與共」指共同承擔災難，請問「難」的讀音為何？",
+    "options": ["ㄋㄢˊ", "ㄋㄢˋ", "ㄌㄢˊ", "ㄌㄢˋ"],
+    "answer": 1,
+    "explanation": "「患難與共」的「難」讀音為「ㄋㄢˋ」。"
+  },
+  {
+    "id": 13,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「班門弄斧」比喻在行家面前賣弄，請問「弄」的讀音為何？",
+    "options": ["ㄋㄨㄥˋ", "ㄌㄨㄥˋ", "ㄋㄨㄥ", "ㄌㄨㄥ"],
+    "answer": 0,
+    "explanation": "「班門弄斧」的「弄」讀音為「ㄋㄨㄥˋ」。"
+  },
+  {
+    "id": 14,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「巷弄」泛稱窄小的街道，請問「弄」的讀音為何？",
+    "options": ["ㄋㄨㄥˋ", "ㄌㄨㄥˋ", "ㄋㄨㄥ", "ㄌㄨㄥ"],
+    "answer": 1,
+    "explanation": "「巷弄」的「弄」讀音為「ㄌㄨㄥˋ」。"
+  },
+  {
+    "id": 15,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「天雨粟」形容極不可能實現的事，請問「雨」的讀音為何？",
+    "options": ["ㄩˋ", "ㄩˇ", "ㄧㄩˇ", "ㄧㄩˋ"],
+    "answer": 0,
+    "explanation": "「天雨粟」的「雨」讀音為「ㄩˋ」。"
+  },
+  {
+    "id": 16,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「櫛風沐雨」形容在外奔走辛勞，請問「雨」的讀音為何？",
+    "options": ["ㄩˋ", "ㄩˇ", "ㄧㄩˇ", "ㄧㄩˋ"],
+    "answer": 1,
+    "explanation": "「櫛風沐雨」的「雨」讀音為「ㄩˇ」。"
+  },
+  {
+    "id": 17,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「卷曲」形容彎曲的樣子，請問「卷」的讀音為何？",
+    "options": ["ㄐㄩㄢˇ", "ㄐㄩㄢˋ", "ㄍㄨㄢˇ", "ㄍㄨㄢˋ"],
+    "answer": 0,
+    "explanation": "「卷曲」的「卷」讀音為「ㄐㄩㄢˇ」。"
+  },
+  {
+    "id": 18,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「卷雲」是一種高空的雲，請問「卷」的讀音為何？",
+    "options": ["ㄐㄩㄢˇ", "ㄐㄩㄢˋ", "ㄍㄨㄢˇ", "ㄍㄨㄢˋ"],
+    "answer": 1,
+    "explanation": "「卷雲」的「卷」讀音為「ㄐㄩㄢˋ」。"
+  },
+  {
+    "id": 19,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「手不釋卷」形容勤奮好學，請問「卷」的讀音為何？",
+    "options": ["ㄐㄩㄢˇ", "ㄍㄨㄢˇ", "ㄐㄩㄢˋ", "ㄍㄨㄢˋ"],
+    "answer": 2,
+    "explanation": "「手不釋卷」的「卷」讀音為「ㄐㄩㄢˋ」。"
+  },
+  {
+    "id": 20,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「解甲歸田」指軍人退伍回鄉，請問「解」的讀音為何？",
+    "options": ["ㄐㄧㄝˇ", "ㄒㄧㄝˋ", "ㄐㄧㄝˋ", "ㄒㄧㄝ"],
+    "answer": 0,
+    "explanation": "「解甲歸田」的「解」讀音為「ㄐㄧㄝˇ」。"
+  },
+  {
+    "id": 21,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「解縣」是地名，請問「解」的讀音為何？",
+    "options": ["ㄐㄧㄝˇ", "ㄒㄧㄝˋ", "ㄐㄧㄝˋ", "ㄒㄧㄝ"],
+    "answer": 1,
+    "explanation": "「解縣」的「解」讀音為「ㄒㄧㄝˋ」。"
+  },
+  {
+    "id": 22,
+    "unit": 3,
+    "category": "vocabulary",
+    "question": "「解送」指押解遣送，請問「解」的讀音為何？",
+    "options": ["ㄐㄧㄝˇ", "ㄒㄧㄝˋ", "ㄐㄧㄝˋ", "ㄒㄧㄝ"],
+    "answer": 2,
+    "explanation": "「解送」的「解」讀音為「ㄐㄧㄝˋ」。"
+  },
+  {
+    "id": 1,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「暈頭轉向」形容頭腦昏眩，請問「暈」的讀音為何？",
+    "options": ["ㄩㄣ", "ㄩㄣˋ", "ㄏㄨㄣ", "ㄏㄨㄣˋ"],
+    "answer": 0,
+    "explanation": "「暈頭轉向」的「暈」讀音為「ㄩㄣ」。"
+  },
+  {
+    "id": 2,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「月暈」指月光形成的光環，請問「暈」的讀音為何？",
+    "options": ["ㄩㄣ", "ㄩㄣˋ", "ㄏㄨㄣ", "ㄏㄨㄣˋ"],
+    "answer": 1,
+    "explanation": "「月暈」的「暈」讀音為「ㄩㄣˋ」。"
+  },
+  {
+    "id": 3,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「遠小人」指遠離小人，請問「遠」的讀音為何？",
+    "options": ["ㄩㄢˇ", "ㄩㄢˋ", "ㄩㄢ", "ㄩㄢˊ"],
+    "answer": 0,
+    "explanation": "「遠小人」的「遠」讀音為「ㄩㄢˇ」。"
+  },
+  {
+    "id": 4,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「殷鑑不遠」比喻借鏡的事例近在眼前，請問「遠」的讀音為何？",
+    "options": ["ㄩㄢˇ", "ㄩㄢˋ", "ㄩㄢ", "ㄩㄢˊ"],
+    "answer": 1,
+    "explanation": "「殷鑑不遠」的「遠」讀音為「ㄩㄢˋ」。"
+  },
+  {
+    "id": 5,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「不予置評」指不做任何評論，請問「予」的讀音為何？",
+    "options": ["ㄩˇ", "ㄩˊ", "ㄧㄩˇ", "ㄧㄩˊ"],
+    "answer": 0,
+    "explanation": "「不予置評」的「予」讀音為「ㄩˇ」。"
+  },
+  {
+    "id": 6,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「予取予求」指任意取求，請問「予」的讀音為何？",
+    "options": ["ㄩˇ", "ㄩˊ", "ㄧㄩˇ", "ㄧㄩˊ"],
+    "answer": 1,
+    "explanation": "「予取予求」的「予」讀音為「ㄩˊ」。"
+  },
+  {
+    "id": 7,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「供奉」指供養侍奉，請問「供」的讀音為何？",
+    "options": ["ㄍㄨㄥˋ", "ㄍㄨㄥ", "ㄎㄨㄥˋ", "ㄎㄨㄥ"],
+    "answer": 0,
+    "explanation": "「供奉」的「供」讀音為「ㄍㄨㄥˋ」。"
+  },
+  {
+    "id": 8,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「供需失調」指供給與需求不合，請問「供」的讀音為何？",
+    "options": ["ㄍㄨㄥˋ", "ㄍㄨㄥ", "ㄎㄨㄥˋ", "ㄎㄨㄥ"],
+    "answer": 1,
+    "explanation": "「供需失調」的「供」讀音為「ㄍㄨㄥ」。"
+  },
+  {
+    "id": 9,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「冠蓋如雲」指官吏士紳聚集，請問「冠」的讀音為何？",
+    "options": ["ㄍㄨㄢ", "ㄍㄨㄢˋ", "ㄍㄨㄢˇ", "ㄍㄨㄢ"],
+    "answer": 0,
+    "explanation": "「冠蓋如雲」的「冠」讀音為「ㄍㄨㄢ」。"
+  },
+  {
+    "id": 10,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「弱冠之禮」指古代男子二十歲成年，請問「冠」的讀音為何？",
+    "options": ["ㄍㄨㄢ", "ㄍㄨㄢˋ", "ㄍㄨㄢˇ", "ㄍㄨㄢ"],
+    "answer": 1,
+    "explanation": "「弱冠之禮」的「冠」讀音為「ㄍㄨㄢˋ」。"
+  },
+  {
+    "id": 11,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「道觀」指道教的廟宇，請問「觀」的讀音為何？",
+    "options": ["ㄍㄨㄢˋ", "ㄍㄨㄢ", "ㄍㄨㄢˇ", "ㄍㄨㄢ"],
+    "answer": 0,
+    "explanation": "「道觀」的「觀」讀音為「ㄍㄨㄢˋ」。"
+  },
+  {
+    "id": 12,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「作壁上觀」比喻坐觀成敗，請問「觀」的讀音為何？",
+    "options": ["ㄍㄨㄢˋ", "ㄍㄨㄢ", "ㄍㄨㄢˇ", "ㄍㄨㄢ"],
+    "answer": 1,
+    "explanation": "「作壁上觀」的「觀」讀音為「ㄍㄨㄢ」。"
+  },
+  {
+    "id": 13,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「一哄而散」指人群吵鬧散去，請問「哄」的讀音為何？",
+    "options": ["ㄏㄨㄥˋ", "ㄏㄨㄥ", "ㄏㄨㄥˊ", "ㄏㄨㄥˇ"],
+    "answer": 0,
+    "explanation": "「一哄而散」的「哄」讀音為「ㄏㄨㄥˋ」。"
+  },
+  {
+    "id": 14,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「哄騙」指誘騙他人，請問「哄」的讀音為何？",
+    "options": ["ㄏㄨㄥˋ", "ㄏㄨㄥˇ", "ㄏㄨㄥ", "ㄏㄨㄥˊ"],
+    "answer": 1,
+    "explanation": "「哄騙」的「哄」讀音為「ㄏㄨㄥˇ」。"
+  },
+  {
+    "id": 15,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「渾然天成」形容自然形成，請問「渾」的讀音為何？",
+    "options": ["ㄏㄨㄣˊ", "ㄏㄨㄣˋ", "ㄍㄨㄣˊ", "ㄍㄨㄣˋ"],
+    "answer": 0,
+    "explanation": "「渾然天成」的「渾」讀音為「ㄏㄨㄣˊ」。"
+  },
+  {
+    "id": 16,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「混沌」指模糊不清的狀態，請問「渾」的讀音為何？",
+    "options": ["ㄏㄨㄣˊ", "ㄏㄨㄣˋ", "ㄍㄨㄣˊ", "ㄍㄨㄣˋ"],
+    "answer": 1,
+    "explanation": "「混沌」的「渾」讀音為「ㄏㄨㄣˋ」。"
+  },
+  {
+    "id": 17,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「遊說」指以言語說動他人，請問「說」的讀音為何？",
+    "options": ["ㄕㄨㄟˋ", "ㄩㄝˋ", "ㄕㄨㄛ", "ㄕㄨㄛˋ"],
+    "answer": 0,
+    "explanation": "「遊說」的「說」讀音為「ㄕㄨㄟˋ」。"
+  },
+  {
+    "id": 18,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「不亦說乎」指很快樂，請問「說」的讀音為何？",
+    "options": ["ㄕㄨㄟˋ", "ㄩㄝˋ", "ㄕㄨㄛ", "ㄕㄨㄛˋ"],
+    "answer": 1,
+    "explanation": "「不亦說乎」的「說」讀音為「ㄩㄝˋ」。"
+  },
+  {
+    "id": 19,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「不由分說」指不容許解釋，請問「說」的讀音為何？",
+    "options": ["ㄕㄨㄟˋ", "ㄩㄝˋ", "ㄕㄨㄛ", "ㄕㄨㄛˋ"],
+    "answer": 2,
+    "explanation": "「不由分說」的「說」讀音為「ㄕㄨㄛ」。"
+  },
+  {
+    "id": 20,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「數見不鮮」形容經常見到，請問「數」的讀音為何？",
+    "options": ["ㄕㄨㄛˋ", "ㄕㄨˇ", "ㄕㄨˋ", "ㄙㄨˋ"],
+    "answer": 0,
+    "explanation": "「數見不鮮」的「數」讀音為「ㄕㄨㄛˋ」。"
+  },
+  {
+    "id": 21,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「數典忘祖」比喻忘本，請問「數」的讀音為何？",
+    "options": ["ㄕㄨㄛˋ", "ㄕㄨˇ", "ㄕㄨˋ", "ㄙㄨˋ"],
+    "answer": 1,
+    "explanation": "「數典忘祖」的「數」讀音為「ㄕㄨˇ」。"
+  },
+  {
+    "id": 22,
+    "unit": 4,
+    "category": "vocabulary",
+    "question": "「渾身解數」指全身本領，請問「數」的讀音為何？",
+    "options": ["ㄕㄨㄛˋ", "ㄕㄨˇ", "ㄕㄨˋ", "ㄙㄨˋ"],
+    "answer": 2,
+    "explanation": "「渾身解數」的「數」讀音為「ㄕㄨˋ」。"
+  },
+  {
+    "id": 1,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「濟濟多士」形容人才眾多，請問「濟」的讀音為何？",
+    "options": ["ㄐㄧˇ", "ㄐㄧˋ", "ㄑㄧˊ", "ㄑㄧˋ"],
+    "answer": 0,
+    "explanation": "「濟濟多士」的「濟」讀音為「ㄐㄧˇ」。"
+  },
+  {
+    "id": 2,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「和衷共濟」比喻同心協力，請問「濟」的讀音為何？",
+    "options": ["ㄐㄧˇ", "ㄐㄧˋ", "ㄑㄧˊ", "ㄑㄧˋ"],
+    "answer": 1,
+    "explanation": "「和衷共濟」的「濟」讀音為「ㄐㄧˋ」。"
+  },
+  {
+    "id": 3,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「赤嵌樓」是臺南的古蹟，請問「嵌」的讀音為何？",
+    "options": ["ㄑㄧㄢˋ", "ㄎㄢˇ", "ㄑㄧㄢ", "ㄎㄢ"],
+    "answer": 0,
+    "explanation": "「赤嵌樓」的「嵌」讀音為「ㄑㄧㄢˋ」。"
+  },
+  {
+    "id": 4,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「鑲嵌」指把東西嵌入，請問「嵌」的讀音為何？",
+    "options": ["ㄑㄧㄢˋ", "ㄑㄧㄢ", "ㄎㄢˇ", "ㄎㄢ"],
+    "answer": 1,
+    "explanation": "「鑲嵌」的「嵌」讀音為「ㄑㄧㄢ」。"
+  },
+  {
+    "id": 5,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「羊質虎皮」比喻外強中乾，請問「質」的讀音為何？",
+    "options": ["ㄓˋ", "ㄓˊ", "ㄗˋ", "ㄗˊ"],
+    "answer": 0,
+    "explanation": "「羊質虎皮」的「質」讀音為「ㄓˋ」。"
+  },
+  {
+    "id": 6,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「質押」指以財物作為抵押，請問「質」的讀音為何？",
+    "options": ["ㄓˋ", "ㄓˊ", "ㄗˋ", "ㄗˊ"],
+    "answer": 1,
+    "explanation": "「質押」的「質」讀音為「ㄓˊ」。"
+  },
+  {
+    "id": 7,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「飛來橫禍」指意外災害，請問「橫」的讀音為何？",
+    "options": ["ㄏㄥˋ", "ㄏㄥˊ", "ㄏㄨㄥˋ", "ㄏㄨㄥˊ"],
+    "answer": 0,
+    "explanation": "「飛來橫禍」的「橫」讀音為「ㄏㄥˋ」。"
+  },
+  {
+    "id": 8,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「老氣橫秋」形容暮氣沉沉，請問「橫」的讀音為何？",
+    "options": ["ㄏㄥˋ", "ㄏㄥˊ", "ㄏㄨㄥˋ", "ㄏㄨㄥˊ"],
+    "answer": 1,
+    "explanation": "「老氣橫秋」的「橫」讀音為「ㄏㄥˊ」。"
+  },
+  {
+    "id": 9,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「弱不禁風」形容身體虛弱，請問「禁」的讀音為何？",
+    "options": ["ㄐㄧㄣ", "ㄐㄧㄣˋ", "ㄐㄧㄥ", "ㄐㄧㄥˋ"],
+    "answer": 0,
+    "explanation": "「弱不禁風」的「禁」讀音為「ㄐㄧㄣ」。"
+  },
+  {
+    "id": 10,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「百無禁忌」指毫無忌諱，請問「禁」的讀音為何？",
+    "options": ["ㄐㄧㄣ", "ㄐㄧㄣˋ", "ㄐㄧㄥ", "ㄐㄧㄥˋ"],
+    "answer": 1,
+    "explanation": "「百無禁忌」的「禁」讀音為「ㄐㄧㄣˋ」。"
+  },
+  {
+    "id": 11,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「妄自菲薄」指過於自卑，請問「菲」的讀音為何？",
+    "options": ["ㄈㄟˇ", "ㄈㄟ", "ㄈㄟˋ", "ㄈㄟˊ"],
+    "answer": 0,
+    "explanation": "「妄自菲薄」的「菲」讀音為「ㄈㄟˇ」。"
+  },
+  {
+    "id": 12,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「芳菲」形容花草美麗，請問「菲」的讀音為何？",
+    "options": ["ㄈㄟˇ", "ㄈㄟ", "ㄈㄟˋ", "ㄈㄟˊ"],
+    "answer": 1,
+    "explanation": "「芳菲」的「菲」讀音為「ㄈㄟ」。"
+  },
+  {
+    "id": 13,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「饋遺」指贈與財物，請問「遺」的讀音為何？",
+    "options": ["ㄨㄟˋ", "ㄧˊ", "ㄨㄟ", "ㄧˋ"],
+    "answer": 0,
+    "explanation": "「饋遺」的「遺」讀音為「ㄨㄟˋ」。"
+  },
+  {
+    "id": 14,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「滄海遺珠」比喻埋沒的人才，請問「遺」的讀音為何？",
+    "options": ["ㄨㄟˋ", "ㄧˊ", "ㄨㄟ", "ㄧˋ"],
+    "answer": 1,
+    "explanation": "「滄海遺珠」的「遺」讀音為「ㄧˊ」。"
+  },
+  {
+    "id": 15,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「博聞強識」指記憶力很好，請問「識」的讀音為何？",
+    "options": ["ㄓˋ", "ㄕˋ", "ㄗˋ", "ㄙˋ"],
+    "answer": 0,
+    "explanation": "「博聞強識」的「識」讀音為「ㄓˋ」。"
+  },
+  {
+    "id": 16,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「老馬識途」指經驗豐富，請問「識」的讀音為何？",
+    "options": ["ㄓˋ", "ㄕˋ", "ㄗˋ", "ㄙˋ"],
+    "answer": 1,
+    "explanation": "「老馬識途」的「識」讀音為「ㄕˋ」。"
+  },
+  {
+    "id": 17,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「茅塞頓開」比喻突然領悟，請問「塞」的讀音為何？",
+    "options": ["ㄙㄜˋ", "ㄙㄞ", "ㄙㄞˋ", "ㄕㄜˋ"],
+    "answer": 0,
+    "explanation": "「茅塞頓開」的「塞」讀音為「ㄙㄜˋ」。"
+  },
+  {
+    "id": 18,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「塞翁失馬」比喻禍福互轉，請問「塞」的讀音為何？",
+    "options": ["ㄙㄜˋ", "ㄙㄞ", "ㄙㄞˋ", "ㄕㄜˋ"],
+    "answer": 1,
+    "explanation": "「塞翁失馬」的「塞」讀音為「ㄙㄞ」。"
+  },
+  {
+    "id": 19,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「塞車」指交通阻塞，請問「塞」的讀音為何？",
+    "options": ["ㄙㄜˋ", "ㄙㄞ", "ㄙㄞˋ", "ㄕㄜˋ"],
+    "answer": 2,
+    "explanation": "「塞車」的「塞」讀音為「ㄙㄞˋ」。"
+  },
+  {
+    "id": 20,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「勾當」指負面的事情，請問「當」的讀音為何？",
+    "options": ["ㄉㄤˋ", "ㄉㄤ", "ㄉㄢˋ", "ㄉㄢ"],
+    "answer": 0,
+    "explanation": "「勾當」的「當」讀音為「ㄉㄤˋ」。"
+  },
+  {
+    "id": 21,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「直截了當」形容乾淨俐落，請問「當」的讀音為何？",
+    "options": ["ㄉㄤˋ", "ㄉㄤ", "ㄉㄢˋ", "ㄉㄢ"],
+    "answer": 1,
+    "explanation": "「直截了當」的「當」讀音為「ㄉㄤ」。"
+  },
+  {
+    "id": 22,
+    "unit": 5,
+    "category": "vocabulary",
+    "question": "「當頭棒喝」指使人醒悟的警示，請問「當」的讀音為何？",
+    "options": ["ㄉㄤˋ", "ㄉㄤ", "ㄉㄢˋ", "ㄉㄢ"],
+    "answer": 1,
+    "explanation": "「當頭棒喝」的「當」讀音為「ㄉㄤ」。"
+  },
+  {
+    "id": 1,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「舍我其誰」意指除了我以外沒有更適當的人選，請問「舍」的讀音為何？",
+    "options": ["ㄕㄜˇ", "ㄕㄜˋ", "ㄕㄜ", "ㄕㄜˋ"],
+    "answer": 0,
+    "explanation": "「舍我其誰」的「舍」讀音為「ㄕㄜˇ」。"
+  },
+  {
+    "id": 2,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「退避三舍」指主動讓步，請問「舍」的讀音為何？",
+    "options": ["ㄕㄜˇ", "ㄕㄜˋ", "ㄕㄜ", "ㄕㄜˋ"],
+    "answer": 1,
+    "explanation": "「退避三舍」的「舍」讀音為「ㄕㄜˋ」。"
+  },
+  {
+    "id": 3,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「任重道遠」指長期肩負重大任務，請問「任」的讀音為何？",
+    "options": ["ㄖㄣˋ", "ㄖㄣˊ", "ㄖㄥˋ", "ㄖㄥˊ"],
+    "answer": 0,
+    "explanation": "「任重道遠」的「任」讀音為「ㄖㄣˋ」。"
+  },
+  {
+    "id": 4,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「任先生」中的「任」字當姓氏時，請問讀音為何？",
+    "options": ["ㄖㄣˋ", "ㄖㄣˊ", "ㄖㄥˋ", "ㄖㄥˊ"],
+    "answer": 1,
+    "explanation": "「任」姓的「任」讀音為「ㄖㄣˊ」。"
+  },
+  {
+    "id": 5,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「置若罔聞」指不加理會，請問「若」的讀音為何？",
+    "options": ["ㄖㄨㄛˋ", "ㄖㄜˇ", "ㄖㄨㄛ", "ㄖㄜ"],
+    "answer": 0,
+    "explanation": "「置若罔聞」的「若」讀音為「ㄖㄨㄛˋ」。"
+  },
+  {
+    "id": 6,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「般若」是指佛教的智慧，請問「若」的讀音為何？",
+    "options": ["ㄖㄨㄛˋ", "ㄖㄜˇ", "ㄖㄨㄛ", "ㄖㄜ"],
+    "answer": 1,
+    "explanation": "「般若」的「若」讀音為「ㄖㄜˇ」。"
+  },
+  {
+    "id": 7,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「叨擾」是感謝款待的客套話，請問「叨」的讀音為何？",
+    "options": ["ㄊㄠ", "ㄉㄠ", "ㄊㄠˊ", "ㄉㄠˊ"],
+    "answer": 0,
+    "explanation": "「叨擾」的「叨」讀音為「ㄊㄠ」。"
+  },
+  {
+    "id": 8,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「絮叨」指說話煩瑣不止，請問「叨」的讀音為何？",
+    "options": ["ㄊㄠ", "ㄉㄠ", "ㄊㄠˊ", "ㄉㄠˊ"],
+    "answer": 1,
+    "explanation": "「絮叨」的「叨」讀音為「ㄉㄠ」。"
+  },
+  {
+    "id": 9,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「天乾物燥」形容空氣水分少，請問「燥」的讀音為何？",
+    "options": ["ㄗㄠˋ", "ㄙㄠˋ", "ㄗㄠ", "ㄙㄠ"],
+    "answer": 0,
+    "explanation": "「天乾物燥」的「燥」讀音為「ㄗㄠˋ」。"
+  },
+  {
+    "id": 10,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「肉燥」指剁成細碎的肉，請問「燥」的讀音為何？",
+    "options": ["ㄗㄠˋ", "ㄙㄠˋ", "ㄗㄠ", "ㄙㄠ"],
+    "answer": 1,
+    "explanation": "「肉燥」的「燥」讀音為「ㄙㄠˋ」。"
+  },
+  {
+    "id": 11,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「矜寡孤獨」指孤獨無依的人，請問「矜」的讀音為何？",
+    "options": ["ㄍㄨㄢ", "ㄐㄧㄣ", "ㄍㄨㄢˇ", "ㄐㄧㄣˋ"],
+    "answer": 1,
+    "explanation": "「矜寡孤獨」的「矜」讀音為「ㄐㄧㄣ」。"
+  },
+  {
+    "id": 12,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「驕矜」形容傲慢自大，請問「矜」的讀音為何？",
+    "options": ["ㄍㄨㄢ", "ㄐㄧㄣ", "ㄍㄨㄢˇ", "ㄐㄧㄣˋ"],
+    "answer": 3,
+    "explanation": "「驕矜」的「矜」讀音為「ㄐㄧㄣˋ」。"
+  },
+  {
+    "id": 13,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「門檻」指門框下方的橫木，請問「檻」的讀音為何？",
+    "options": ["ㄎㄢˇ", "ㄐㄧㄢˋ", "ㄎㄢ", "ㄐㄧㄢ"],
+    "answer": 0,
+    "explanation": "「門檻」的「檻」讀音為「ㄎㄢˇ」。"
+  },
+  {
+    "id": 14,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「籠鳥檻猿」指失去自由，請問「檻」的讀音為何？",
+    "options": ["ㄎㄢˇ", "ㄐㄧㄢˋ", "ㄎㄢ", "ㄐㄧㄢ"],
+    "answer": 1,
+    "explanation": "「籠鳥檻猿」的「檻」讀音為「ㄐㄧㄢˋ」。"
+  },
+  {
+    "id": 15,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「衝鋒陷陣」形容英勇作戰，請問「衝」的讀音為何？",
+    "options": ["ㄔㄨㄥ", "ㄔㄨㄥˋ", "ㄔㄨㄥˊ", "ㄔㄨㄥˇ"],
+    "answer": 0,
+    "explanation": "「衝鋒陷陣」的「衝」讀音為「ㄔㄨㄥ」。"
+  },
+  {
+    "id": 16,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「衝著」指對著、向著，請問「衝」的讀音為何？",
+    "options": ["ㄔㄨㄥ", "ㄔㄨㄥˋ", "ㄔㄨㄥˊ", "ㄔㄨㄥˇ"],
+    "answer": 1,
+    "explanation": "「衝著」的「衝」讀音為「ㄔㄨㄥˋ」。"
+  },
+  {
+    "id": 17,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「鬼使神差」形容事情湊巧，請問「差」的讀音為何？",
+    "options": ["ㄔㄞ", "ㄘㄢ", "ㄔㄚ", "ㄔㄚˋ"],
+    "answer": 0,
+    "explanation": "「鬼使神差」的「差」讀音為「ㄔㄞ」。"
+  },
+  {
+    "id": 18,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「參差不齊」指雜亂不整齊，請問「差」的讀音為何？",
+    "options": ["ㄔㄞ", "ㄘ", "ㄔㄚ", "ㄔㄚˋ"],
+    "answer": 1,
+    "explanation": "「參差不齊」的「差」讀音為「ㄘ」。"
+  },
+  {
+    "id": 19,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「陰錯陽差」指偶然因素造成的錯誤，請問「差」的讀音為何？",
+    "options": ["ㄔㄞ", "ㄘㄢ", "ㄔㄚ", "ㄔㄚˋ"],
+    "answer": 2,
+    "explanation": "「陰錯陽差」的「差」讀音為「ㄔㄚ」。"
+  },
+  {
+    "id": 20,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「從容就義」指安然赴死，請問「從」的讀音為何？",
+    "options": ["ㄘㄨㄥˊ", "ㄘㄨㄥˋ", "ㄗㄨㄥˊ", "ㄗㄨㄥˋ"],
+    "answer": 0,
+    "explanation": "「從容就義」的「從」讀音為「ㄘㄨㄥˊ」。"
+  },
+  {
+    "id": 21,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「投筆從戎」指棄文從軍，請問「從」的讀音為何？",
+    "options": ["ㄘㄨㄥˊ", "ㄘㄨㄥˋ", "ㄗㄨㄥˊ", "ㄗㄨㄥˋ"],
+    "answer": 0,
+    "explanation": "「投筆從戎」的「從」讀音為「ㄘㄨㄥˊ」。"
+  },
+  {
+    "id": 22,
+    "unit": 6,
+    "category": "vocabulary",
+    "question": "「扈從」指隨從人員，請問「從」的讀音為何？",
+    "options": ["ㄘㄨㄥˊ", "ㄘㄨㄥˋ", "ㄘㄨㄥ", "ㄗㄨㄥˋ"],
+    "answer": 0,
+    "explanation": "「扈從」的「從」讀音為「ㄘㄨㄥˊ」。"
+  },
+  {
+    "id": 1,
+    "unit": 7,
+    "category": "vocabulary",
+    "question": "「盛飯」指將飯裝入碗中，請問「盛」的讀音為何？",
+    "options": ["ㄔㄥˊ", "ㄕㄥˋ", "ㄔㄥ", "ㄕㄥ"],
+    "answer": 0,
+    "explanation": "「盛飯」的「盛」讀音為「ㄔㄥˊ」。"
+  },
+  {
+    "id": 2,
+    "unit": 7,
+    "category": "vocabulary",
+    "question": "「躬逢其盛」指親自參加盛會，請問「盛」的讀音為何？",
+    "options": ["ㄔㄥˊ", "ㄕㄥˋ", "ㄔㄥ", "ㄕㄥ"],
+    "answer": 1,
+    "explanation": "「躬逢其盛」的「盛」讀音為「ㄕㄥˋ」。"
+  },
+  {
+    "id": 3,
+    "unit": 7,
+    "category": "vocabulary",
+    "question": "「萬乘之國」指大國，請問「乘」的讀音為何？",
+    "options": ["ㄕㄥˋ", "ㄔㄥˊ", "ㄕㄥ", "ㄔㄥ"],
+    "answer": 0,
+    "explanation": "「萬乘之國」的「乘」讀音為「ㄕㄥˋ」。"
+  },
+  {
+    "id": 4,
+    "unit": 7,
+    "category": "vocabulary",
+    "question": "「乘風破浪」比喻奮勇前進，請問「乘」的讀音為何？",
+    "options": ["ㄕㄥˋ", "ㄔㄥˊ", "ㄕㄥ", "ㄔㄥ"],
+    "answer": 1,
+    "explanation": "「乘風破浪」的「乘」讀音為「ㄔㄥˊ」。"
+  },
+  {
+    "id": 5,
+    "unit": 7,
+    "category": "vocabulary",
+    "question": "「神荼鬱壘」是傳說中的門神，請問「荼」的讀音為何？",
+    "options": ["ㄕㄨ", "ㄊㄨˊ", "ㄔㄚˊ", "ㄕㄨˋ"],
+    "answer": 0,
+    "explanation": "「神荼」的「荼」讀音為「ㄕㄨ」。"
+  },
+  {
+    "id": 6,
+    "unit": 7,
+    "category": "vocabulary",
+    "question": "「如火如荼」形容事物的熾烈，請問「荼」的讀音為何？",
+    "options": ["ㄕㄨ", "ㄊㄨˊ", "ㄔㄚˊ", "ㄕㄨˋ"],
+    "answer": 1,
+    "explanation": "「如火如荼」的「荼」讀音為「ㄊㄨˊ」。"
+  },
+  {
+    "id": 7,
+    "unit": 7,
+    "category": "vocabulary",
+    "question": "「剛正不阿」指正直不循私，請問「阿」的讀音為何？",
+    "options": ["ㄜ", "ㄚ", "ㄛ", "ㄜˋ"],
+    "answer": 0,
+    "explanation": "「剛正不阿」的「阿」讀音為「ㄜ」。"
+  },
+  {
+    "id": 8,
+    "unit": 7,
+    "category": "vocabulary",
+    "question": "「吳下阿蒙」比喻學識淺陋，請問「阿」的讀音為何？",
+    "options": ["ㄜ", "ㄚ", "ㄛ", "ㄜˋ"],
+    "answer": 1,
+    "explanation": "「吳下阿蒙」的「阿」讀音為「ㄚ」。"
+  },
+  {
+    "id": 9,
+    "unit": 7,
+    "category": "vocabulary",
+    "question": "「方興未艾」指蓬勃發展中，請問「艾」的讀音為何？",
+    "options": ["ㄞˋ", "ㄧˋ", "ㄞ", "ㄧ"],
+    "answer": 0,
+    "explanation": "「方興未艾」的「艾」讀音為「ㄞˋ」。"
+  },
+  {
+    "id": 10,
+    "unit": 7,
+    "category": "vocabulary",
+    "question": "「自怨自艾」指自我悔恨，請問「艾」的讀音為何？",
+    "options": ["ㄞˋ", "ㄧˋ", "ㄞ", "ㄧ"],
+    "answer": 1,
+    "explanation": "「自怨自艾」的「艾」讀音為「ㄧˋ」。"
+  },
+  {
+    "id": 11,
+    "unit": 7,
+    "category": "vocabulary",
+    "question": "「養生送死」指奉養與殯葬，請問「養」的讀音為何？",
+    "options": ["ㄧㄤˇ", "ㄧㄤˋ", "ㄧㄤ", "ㄧㄤˋ"],
+    "answer": 0,
+    "explanation": "「養生」的「養」讀音為「ㄧㄤˇ」。"
+  },
+  {
+    "id": 12,
+    "unit": 7,
+    "category": "vocabulary",
+    "question": "「養癰成患」比喻姑息養奸，請問「養」的讀音為何？",
+    "options": ["ㄧㄤˇ", "ㄧㄤˋ", "ㄧㄤ", "ㄧㄤˋ"],
+    "answer": 1,
+    "explanation": "「養癰成患」的「養」讀音為「ㄧㄤˋ」。"
+  },
+  {
+    "id": 13,
+    "unit": 7,
+    "category": "vocabulary",
+    "question": "「哽咽」形容悲泣不能成聲，請問「咽」的讀音為何？",
+    "options": ["ㄧㄝˋ", "ㄧㄢ", "ㄧㄢˋ", "ㄧㄝ"],
+    "answer": 0,
+    "explanation": "「哽咽」的「咽」讀音為「ㄧㄝˋ」。"
+  },
+  {
+    "id": 14,
+    "unit": 7,
+    "category": "vocabulary",
+    "question": "「咽喉」比喻險要之地，請問「咽」的讀音為何？",
+    "options": ["ㄧㄝˋ", "ㄧㄢ", "ㄧㄢˋ", "ㄧㄝ"],
+    "answer": 1,
+    "explanation": "「咽喉」的「咽」讀音為「ㄧㄢ」。"
+  },
+  {
+    "id": 15,
+    "unit": 7,
+    "category": "vocabulary",
+    "question": "「傾軋」指毀謗排擠，請問「軋」的讀音為何？",
+    "options": ["ㄧㄚˋ", "ㄍㄚˊ", "ㄓㄚˊ", "ㄧㄚ"],
+    "answer": 0,
+    "explanation": "「傾軋」的「軋」讀音為「ㄧㄚˋ」。"
+  },
+  {
+    "id": 16,
+    "unit": 7,
+    "category": "vocabulary",
+    "question": "「軋頭寸」指調借現款，請問「軋」的讀音為何？",
+    "options": ["ㄧㄚˋ", "ㄍㄚˊ", "ㄓㄚˊ", "ㄧㄚ"],
+    "answer": 1,
+    "explanation": "「軋頭寸」的「軋」讀音為「ㄍㄚˊ」。"
+  },
+  {
+    "id": 17,
+    "unit": 7,
+    "category": "vocabulary",
+    "question": "「繃著臉」指表情僵硬，請問「繃」的讀音為何？",
+    "options": ["ㄅㄥˇ", "ㄅㄥ", "ㄅㄥˋ", "ㄆㄥˊ"],
+    "answer": 0,
+    "explanation": "「繃著臉」的「繃」讀音為「ㄅㄥˇ」。"
+  },
+  {
+    "id": 18,
+    "unit": 7,
+    "category": "vocabulary",
+    "question": "「緊繃」形容心情緊張，請問「繃」的讀音為何？",
+    "options": ["ㄅㄥˇ", "ㄅㄥ", "ㄅㄥˋ", "ㄆㄥˊ"],
+    "answer": 1,
+    "explanation": "「緊繃」的「繃」讀音為「ㄅㄥ」。"
+  },
+  {
+    "id": 19,
+    "unit": 7,
+    "category": "vocabulary",
+    "question": "「五花繃裂」指物品綻裂，請問「繃」的讀音為何？",
+    "options": ["ㄅㄥˇ", "ㄅㄥ", "ㄅㄥˋ", "ㄆㄥˊ"],
+    "answer": 2,
+    "explanation": "「五花繃裂」的「繃」讀音為「ㄅㄥˋ」。"
+  },
+  {
+    "id": 20,
+    "unit": 7,
+    "category": "vocabulary",
+    "question": "「深惡痛絕」指厭惡到極點，請問「惡」的讀音為何？",
+    "options": ["ㄨˋ", "ㄜˋ", "ㄜ", "ㄨ"],
+    "answer": 0,
+    "explanation": "「深惡痛絕」的「惡」讀音為「ㄨˋ」。"
+  },
+  {
+    "id": 21,
+    "unit": 7,
+    "category": "vocabulary",
+    "question": "「嫉惡如仇」指憎惡邪惡，請問「惡」的讀音為何？",
+    "options": ["ㄨˋ", "ㄜˋ", "ㄜ", "ㄨ"],
+    "answer": 1,
+    "explanation": "「嫉惡如仇」的「惡」讀音為「ㄜˋ」。"
+  },
+  {
+    "id": 22,
+    "unit": 7,
+    "category": "vocabulary",
+    "question": "「惡心」指反胃想吐，請問「惡」的讀音為何？",
+    "options": ["ㄨˋ", "ㄜˋ", "ㄜ", "ㄨ"],
+    "answer": 2,
+    "explanation": "「惡心」的「惡」讀音為「ㄜ」。"
+  },
+  {
+    "id": 1,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "「咱們」是指我們，請問「咱」的讀音為何？",
+    "options": ["ㄗㄢˊ", "ㄗㄢ", "ㄗㄚˊ", "ㄗㄚ"],
+    "answer": 0,
+    "explanation": "「咱們」的「咱」讀音為「ㄗㄢˊ」。"
+  },
+  {
+    "id": 2,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "「咱家」在古典戲劇中是自稱，請問「咱」的讀音為何？",
+    "options": ["ㄗㄢˊ", "ㄗㄚˊ", "ㄗㄢ", "ㄗㄚ"],
+    "answer": 1,
+    "explanation": "「咱家」的「咱」讀音為「ㄗㄚˊ」。"
+  },
+  {
+    "id": 3,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "「勾當」指負面的事情，請問「勾」的讀音為何？",
+    "options": ["ㄍㄡˋ", "ㄍㄡ", "ㄍㄨ", "ㄍㄨˋ"],
+    "answer": 0,
+    "explanation": "「勾當」的「勾」讀音為「ㄍㄡˋ」。"
+  },
+  {
+    "id": 4,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "「一筆勾銷」指全部取消，請問「勾」的讀音為何？",
+    "options": ["ㄍㄡˋ", "ㄍㄡ", "ㄍㄨ", "ㄍㄨˋ"],
+    "answer": 1,
+    "explanation": "「一筆勾銷」的「勾」讀音為「ㄍㄡ」。"
+  },
+  {
+    "id": 5,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "「葛先生」當姓氏時，請問「葛」的讀音為何？",
+    "options": ["ㄍㄜˇ", "ㄍㄜˊ", "ㄍㄜ", "ㄎㄜˇ"],
+    "answer": 0,
+    "explanation": "「葛」姓的「葛」讀音為「ㄍㄜˇ」。"
+  },
+  {
+    "id": 6,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "「諸葛亮」是複姓，請問「葛」的讀音為何？",
+    "options": ["ㄍㄜˇ", "ㄍㄜˊ", "ㄍㄜ", "ㄎㄜˇ"],
+    "answer": 1,
+    "explanation": "「諸葛」的「葛」讀音為「ㄍㄜˊ」。"
+  },
+  {
+    "id": 7,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "「肉脯」指乾肉，請問「脯」的讀音為何？",
+    "options": ["ㄈㄨˇ", "ㄆㄨˊ", "ㄈㄨ", "ㄆㄨˇ"],
+    "answer": 0,
+    "explanation": "「肉脯」的「脯」讀音為「ㄈㄨˇ」。"
+  },
+  {
+    "id": 8,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "「胸脯」指身體部位，請問「脯」的讀音為何？",
+    "options": ["ㄈㄨˇ", "ㄆㄨˊ", "ㄈㄨ", "ㄆㄨˇ"],
+    "answer": 1,
+    "explanation": "「胸脯」的「脯」讀音為「ㄆㄨˊ」。"
+  },
+  {
+    "id": 9,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "「剃頭擔子」指一頭熱，請問「擔」的讀音為何？",
+    "options": ["ㄉㄢˋ", "ㄉㄢ", "ㄉㄚˋ", "ㄉㄚ"],
+    "answer": 0,
+    "explanation": "「剃頭擔子」的「擔」讀音為「ㄉㄢˋ」。"
+  },
+  {
+    "id": 10,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "「扁擔」是挑東西的橫桿，請問「擔」的讀音為何？",
+    "options": ["ㄉㄢˋ", "ㄉㄢ", "ㄉㄚˋ", "ㄉㄚ"],
+    "answer": 1,
+    "explanation": "「扁擔」的「擔」讀音為「ㄉㄢ」。"
+  },
+  {
+    "id": 11,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "「金鏤玉衣」是古代殮服，請問「鏤」的讀音為何？",
+    "options": ["ㄌㄡˋ", "ㄌㄡ", "ㄌㄩˇ", "ㄌㄩˋ"],
+    "answer": 0,
+    "explanation": "「金鏤玉衣」的「鏤」讀音為「ㄌㄡˋ」。"
+  },
+  {
+    "id": 12,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "「鏤刻」指雕刻，請問「鏤」的讀音為何？",
+    "options": ["ㄌㄡ", "ㄌㄡˋ", "ㄌㄩˇ", "ㄌㄩˋ"],
+    "answer": 1,
+    "explanation": "「鏤刻」的「鏤」讀音為「ㄌㄡˋ」。"
+  },
+  {
+    "id": 13,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "「滿腹經綸」指才識豐富，請問「綸」的讀音為何？",
+    "options": ["ㄌㄨㄣˊ", "ㄍㄨㄢ", "ㄌㄨㄣ", "ㄍㄨㄢˋ"],
+    "answer": 0,
+    "explanation": "「滿腹經綸」的「綸」讀音為「ㄌㄨㄣˊ」。"
+  },
+  {
+    "id": 14,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "「羽扇綸巾」指瀟灑閒適，請問「綸」的讀音為何？",
+    "options": ["ㄌㄨㄣˊ", "ㄍㄨㄢ", "ㄌㄨㄣ", "ㄍㄨㄢˋ"],
+    "answer": 1,
+    "explanation": "「羽扇綸巾」的「綸」讀音為「ㄍㄨㄢ」。"
+  },
+  {
+    "id": 15,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "「委決不下」指遲疑不能決定，請問「委」的讀音為何？",
+    "options": ["ㄨㄟˇ", "ㄨㄟ", "ㄨㄟˋ", "ㄨㄟ"],
+    "answer": 0,
+    "explanation": "「委決不下」的「委」讀音為「ㄨㄟˇ」。"
+  },
+  {
+    "id": 16,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "「虛與委蛇」指假意敷衍，請問「委」的讀音為何？",
+    "options": ["ㄨㄟˇ", "ㄨㄟ", "ㄨㄟˋ", "ㄨㄟ"],
+    "answer": 1,
+    "explanation": "「虛與委蛇」的「委」讀音為「ㄨㄟ」。"
+  },
+  {
+    "id": 17,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "「撒手人寰」比喻人去世，請問「撒」的讀音為何？",
+    "options": ["ㄙㄚ", "ㄙㄚˇ", "ㄕㄚ", "ㄕㄚˇ"],
+    "answer": 0,
+    "explanation": "「撒手人寰」的「撒」讀音為「ㄙㄚ」。"
+  },
+  {
+    "id": 18,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "「撒落」指散落，請問「撒」的讀音為何？",
+    "options": ["ㄙㄚ", "ㄙㄚˇ", "ㄕㄚ", "ㄕㄚˇ"],
+    "answer": 1,
+    "explanation": "「撒落」的「撒」讀音為「ㄙㄚˇ」。"
+  },
+  {
+    "id": 19,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "「兩撇鬍子」指撇狀物，請問「撇」的讀音為何？",
+    "options": ["ㄆㄧㄝˇ", "ㄆㄧㄝ", "ㄆㄧㄝˋ", "ㄆㄧㄝ"],
+    "answer": 0,
+    "explanation": "「兩撇鬍子」的「撇」讀音為「ㄆㄧㄝˇ」。"
+  },
+  {
+    "id": 20,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "「撇開」指拋開不顧，請問「撇」的讀音為何？",
+    "options": ["ㄆㄧㄝˇ", "ㄆㄧㄝ", "ㄆㄧㄝˋ", "ㄆㄧㄝ"],
+    "answer": 2,
+    "explanation": "「撇開」的「撇」讀音為「ㄆㄧㄝˋ」。"
+  },
+  {
+    "id": 21,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "「法家拂士」指賢士，請問「拂」的讀音為何？",
+    "options": ["ㄅㄧˋ", "ㄈㄨˊ", "ㄈㄨ", "ㄅㄧ"],
+    "answer": 0,
+    "explanation": "「法家拂士」的「拂」讀音為「ㄅㄧˋ」。"
+  },
+  {
+    "id": 22,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "「拂袖而去」指憤然離去，請問「拂」的讀音為何？",
+    "options": ["ㄅㄧˋ", "ㄈㄨˊ", "ㄈㄨ", "ㄅㄧ"],
+    "answer": 1,
+    "explanation": "「拂袖而去」的「拂」讀音為「ㄈㄨˊ」。"
+  },
+  {
+    "id": 23,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "「鞭辟入裡」指見解深刻，請問「辟」的讀音為何？",
+    "options": ["ㄆㄧˋ", "ㄅㄧˋ", "ㄆㄧ", "ㄅㄧ"],
+    "answer": 0,
+    "explanation": "「鞭辟入裡」的「辟」讀音為「ㄆㄧˋ」。"
+  },
+  {
+    "id": 24,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "「友便辟」指結交迎合之人，請問「辟」的讀音為何？",
+    "options": ["ㄆㄧˋ", "ㄅㄧˋ", "ㄆㄧ", "ㄅㄧ"],
+    "answer": 1,
+    "explanation": "「友便辟」的「辟」讀音為「ㄅㄧˋ」。"
+  },
+  {
+    "id": 25,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "「刨冰」指碎冰點心，請問「刨」的讀音為何？",
+    "options": ["ㄅㄠˋ", "ㄆㄠˊ", "ㄅㄠ", "ㄆㄠ"],
+    "answer": 0,
+    "explanation": "「刨冰」的「刨」讀音為「ㄅㄠˋ」。"
+  },
+  {
+    "id": 26,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "「刨洞」指挖掘洞穴，請問「刨」的讀音為何？",
+    "options": ["ㄅㄠˋ", "ㄆㄠˊ", "ㄅㄠ", "ㄆㄠ"],
+    "answer": 1,
+    "explanation": "「刨洞」的「刨」讀音為「ㄆㄠˊ」。"
+  },
+  {
+    "id": 27,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "「靡靡之音」指頹廢的音樂，請問「靡」的讀音為何？",
+    "options": ["ㄇㄧˇ", "ㄇㄧˊ", "ㄇㄧˋ", "ㄇㄧ"],
+    "answer": 0,
+    "explanation": "「靡靡之音」的「靡」讀音為「ㄇㄧˇ」。"
+  },
+  {
+    "id": 28,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "「頹靡不振」指意志消沉，請問「靡」的讀音為何？",
+    "options": ["ㄇㄧˇ", "ㄇㄧˊ", "ㄇㄧˋ", "ㄇㄧ"],
+    "answer": 1,
+    "explanation": "「頹靡不振」的「靡」讀音為「ㄇㄧˊ」。"
+  },
+  {
+    "id": 29,
+    "unit": 8,
+    "category": "vocabulary",
+    "question": "「鉅細靡遺」指做事仔細，請問「靡」的讀音為何？",
+    "options": ["ㄇㄧˋ", "ㄇㄧ", "ㄇㄧˇ", "ㄇㄧˊ"],
+    "answer": 3,
+    "explanation": "「鉅細靡遺」的「靡」讀音為「ㄇㄧˊ」。"
+  }
+]
+
